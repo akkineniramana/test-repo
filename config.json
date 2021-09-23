@@ -11,5 +11,11 @@
     "type": "sg",
     "naemon_hg": [],
     "naemon_sg": ["test"]
+  },
+  {
+    "name": "test",
+    "type": "sg",
+    "naemon_hg": [],
+    "naemon_sg": ["test"]
   }
 ]
