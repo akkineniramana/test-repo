@@ -1,0 +1,15 @@
+[
+  {
+    "name": "erp",
+    "type": "sg",
+    "naemon_sg": ["bike"],
+    "new_relic_policy_id": [],
+    "sumo_logic": []
+  },
+  {
+    "name": "test",
+    "type": "sg",
+    "naemon_hg": [],
+    "naemon_sg": ["test"]
+  }
+]
