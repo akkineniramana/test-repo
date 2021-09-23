@@ -16,6 +16,6 @@
     "name": "test",
     "type": "sg",
     "naemon_hg": [],
-    "naemon_sg": ["test"]
+    "naemon_sg": ["venkat_sg"]
   }
 ]
